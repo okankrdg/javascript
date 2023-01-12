@@ -12,7 +12,7 @@ const singleWords = [ "fakat", "halbuki", "hatta", "üstelik", "ancak", "oysa", 
 
 const multipleWords =  [ "o halde", "bundan böyle", "demek ki", "ne yazık ki", "görüldüğü gibi", "i̇lk olarak", "son olarak", "ne var ki",
 	"buna rağmen", "yine de", "başka bir deyişle", "açıklamak gerekirse", "özetlemek gerekirse", "kısaca söylemek gerekirse", "görüldüğü gibi",
-	"ve bunun gibi", "halbu ki", "buna göre", "ona göre", "ek olarak", "her ne kadar", "velev ki", "olmakla beraber", "bile olsa", "i̇le beaber",
+	"ve bunun gibi", "halbu ki", "buna göre", "ona göre", "ek olarak", "her ne kadar", "velev ki", "olmakla beraber", "bile olsa", "i̇le beraber",
 	"i̇le birlikte", "her şeye rağmen", "bütün yanlarıyla", "bütün yönleriyle", "ele alacak olursak", "baştan sona", "diğer bir", "başka bir",
 	"daha önce", "daha sonra", "bundan başka", "bunun yanında", "bunun yanı sıra", "bununla birlikte", "buna ilaveten", "bunun dışında", "elbette ki",
 	"muhakkak ki", "belli başlı", "karşılaştırmak gerekirse", "karşılaştırmalı olarak", "aynı zamanda", "sonuç olarak", "diğer taraftan",
